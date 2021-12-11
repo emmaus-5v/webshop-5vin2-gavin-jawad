@@ -25,6 +25,6 @@ insert into products (name, description, code, price) values ('Volkswagen Golf',
 insert into products (name, description, code, price) values ('Ford Model T', 'American bestseller.', '077030122-3', 11);
 insert into products (name, description, code, price) values ('Renault Clio', 'French Bestseller', 13.5);
 insert into products (name, description, code, price) values ('Toyota Corolla', 'Japanese bestseller.', '693155505-7', 13.5);
-insert into products (name, description, code, price) values ('Skoda Octavia', 'Czech bestseller.', '686928463-6', 14);
+insert into products (name, description, code, price) values ('Mini', 'Czech bestseller.', '686928463-6', 14);
 insert into products (name, description, code, price) values ('Ford Falcon', 'Australian Bestseller.', '492662523-7', 14);
 
